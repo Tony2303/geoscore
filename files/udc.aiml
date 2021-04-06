@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>Ciao</pattern>
+    <template>CIao 😀</template>
+  </category>
+<category>
+    <pattern>Chi sei </pattern>
+    <template>Sono un bot appassionato di Geografia</template>
+</category>
+<category>
+    <pattern>Posso farti delle domande </pattern>
+    <template>Certamente</template>
+</category>
+<category>
+    <pattern>Posso farti una domanda</pattern>
+    <template>Certamente</template>
+</category>
+<category>
+    <pattern>Quante regioni ci sono in Italia</pattern>
+    <template>20
+</template>
+</category>
+<category>
+    <pattern>Quale è la lingua più parlata al mondo</pattern>
+    <template>Il cinese mandarino, con oltre circa 955 milioni di madrelingua</template>
+</category>
+
+<category>
+    <pattern>Quale è la regione italiana più grande</pattern>
+    <template>La SIcilia</template>
+</category>
+<category>
+    <pattern>Quale è la regione italiana più piccola</pattern>
+    <template>La Valle d'Aosta</template>
+</category>
+<category>
+    <pattern>Quale è la regione italiana con maggior numero di province</pattern>
+    <template>La Lombardia con 12 province</template>
+</category>
+<category>
+    <pattern>Quale è la regione italiana con minor numero di province </pattern>
+    <template>La Valle d'Aosta con una sola provincia</template>
+</category>
+<category>
+    <pattern>Quale è la capitale italiana
+</pattern>
+    <template>Roma</template>
+</category>
+<category>
+    <pattern>Quale è il monte italiano più alto </pattern>
+    <template>Il monte Bianco con circa 4809 metri</template>
+</category>
+<category>
+    <pattern>Quale è il fiume italiano più lungo</pattern>
+    <template>Il fiume Po lungo 652 km</template>
+</category>
+<category>
+    <pattern>Quale è il lago italiano più grande </pattern>
+    <template>Il lago Garda grande circa 370 km^2</template>
+</category>
+<category>
+    <pattern>Con quali nazioni confina il territorio italiano</pattern>
+    <template>Con Austria, Francia, Slovenia, Svizzera</template>
+</category>
+<category>
+    <pattern>Quale è la capitale islandese</pattern>
+    <template>Reykjavik</template>
+</category>
+<category>
+    <pattern>Quale è la città più popolosa del mondo</pattern>
+    <template>Shangai, con i suoi incredibili 37 milioni di abitanti</template>
+</category>
+<category>
+    <pattern>Cosa sono i terremoti</pattern>
+    <template>Un terremoto (o sisma), sono vibrazioni o assestamenti della crosta terrestre, provocati dallo spostamento improvviso di una massa rocciosa nel sottosuolo</template>
+</category>
+<category>
+    <pattern>La città più visitata nel 2020</pattern>
+    <template>Bangkok</template>
+</category>
+<category>
+    <pattern>La città più grande del mondo</pattern>
+    <template>New York</template>
+</category>
+<category>
+    <pattern>Il fiume più lungo del mondo</pattern>
+    <template>Il fiume Nilo</template>
+</category>
+<category>
+    <pattern>Il monte più alto del mondo</pattern>
+    <template>Il monte Everest</template>
+</category>
+<category>
+    <pattern>Nazione con la superficie più estesa</pattern>
+    <template>La Russia</template>
+</category>
+<category>
+    <pattern>Dove si trova il grattacielo più alto del mondo</pattern>
+    <template>A Dubai, il nome della struttura è Burj Khalifa</template>
+</category>
+<category>
+    <pattern>Cosa è un iceberg</pattern>
+    <template>E' un enorme blocco di ghiaccio che si è staccato da un ghiacciaio o da una piattaforma di ghiacciai e gallegiante alla deriva nel mare</template>
+</category>
+<category>
+    <pattern>Quale è stato il terremoto più forte fino ad oggi </pattern>
+    <template>Il terremoto di Valdivia del 1960, con una magnitudo di 9,5</template>
+</category>
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+</aiml>
